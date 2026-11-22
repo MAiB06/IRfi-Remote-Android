@@ -7,7 +7,7 @@ on:
         description: Source ZIP in the repository root (leave default unless renamed)
         required: true
         type: string
-        default: IRfi_Remote_Stage1_Source.zip
+        default: IRfi_Remote_Stage2_Source.zip
       publish_release:
         description: Publish a GitHub Release? Requires signed release outputs.
         required: true
